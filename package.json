@@ -1,0 +1,17 @@
+{
+  "name": "socialapp",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "debug": "^2.2.0",
+    "express": "^4.12.4",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-ng-annotate": "^1.0.0",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-stylus": "^2.0.3",
+    "gulp-uglify": "^1.2.0",
+    "mongoose": "^3.8.17",
+    "morgan": "^1.5.3"
+  }
+}
